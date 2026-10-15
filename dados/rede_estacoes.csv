@@ -1,0 +1,11 @@
+origem,destino,minutos
+Luz,Republica,4
+Republica,Higienopolis-Mackenzie,4
+Higienopolis-Mackenzie,Paulista,3
+Paulista,Oscar Freire,4
+Oscar Freire,Fradique Coutinho,3
+Fradique Coutinho,Faria Lima,4
+Faria Lima,Pinheiros,3
+Pinheiros,Butanta,4
+Butanta,Sao Paulo-Morumbi,4
+Sao Paulo-Morumbi,Vila Sonia,4

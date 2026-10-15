@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+dados/ocorrencias_reais_tratadas.csv

@@ -29,10 +29,5 @@ O Charter descreve histórico SAP (notas, IW47, MB51) sem sensores de vibração
 ## Limitações e recomendações
 Os pesos de risco e 30 minutos de atendimento são hipóteses de demonstração. O escopo não prevê diagnóstico físico de componentes, previsão exata de falhas nem alteração automática de manutenção. Considerar mudança de registros em 2023, reincidência, duplicatas, confidencialidade, janelas de operação, segurança e validação da engenharia.
 
-## Referências
-- FIAP / Motiva, *Challenge Motiva + FIAP 2026–2027*, p. 19 (Dynamic Programming).
-- Squad, *CP3 Project Charter (revisado)*, seções 1–3 e Anexo A.
-- Motiva, *Challenge FIAP — Escada Rolante*, setembro/2026.
 
-## Entrega
-Enviar **link do repositório GitHub** via Teams com notebook executado, README e dados de demonstração ou dados reais autorizados. Não publicar dados SAP sensíveis sem autorização.
+
